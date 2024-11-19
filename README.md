@@ -126,7 +126,7 @@ If you find my work useful for your own research, please consider citing:
 ```
 @inproceedings{
     LinGaoyuan-master-thesis,
-    title={Joint Optimization of Mulit-Object Pose and Environmental Dense Feature for Dynamic Neural Scene Reconstruction},
+    title={The Application of Transformer-based Models in Dynamic Outdoor Scenarios},
     author={Gaoyuan Lin},
     year={2024},
     url={}
