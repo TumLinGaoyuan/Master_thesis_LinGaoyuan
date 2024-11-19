@@ -29,24 +29,12 @@ Here give a example of my result, left is ground truth image, right is predicted
 Clone this repository:
 
 ```bash
-git clone https://github.com/MukundVarmaT/GNT.git
-cd GNT/
+git clone https://github.com/TumLinGaoyuan/Master_thesis_LinGaoyuan.git
+cd Master_thesis_LinGaoyuan/MA-final-code
 ```
-
-The code is tested with python 3.8, cuda == 11.1, pytorch == 1.10.1. Additionally dependencies include: 
-
+Then install the requirements.txt file
 ```bash
-torchvision
-ConfigArgParse
-imageio
-matplotlib
-numpy
-opencv_contrib_python
-Pillow
-scipy
-imageio-ffmpeg
-lpips
-scikit-image
+pip install -r requirements.txt
 ```
 
 ## Datasets
