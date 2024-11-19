@@ -30,7 +30,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/TumLinGaoyuan/Master_thesis_LinGaoyuan.git
-cd Master_thesis_LinGaoyuan/MA-final-code
+cd Master_thesis_LinGaoyuan/
 ```
 Then install the requirements.txt file
 ```bash
