@@ -113,7 +113,7 @@ Notice: You may need to check if the expname in ../configs/config_Nuscene.txt is
 
 ```bash
 # single scene
-python3 eval_LinGaoyuan.py --config configs/config_NusceneR.txt
+python3 eval_LinGaoyuan.py --config configs/config_Nuscene.txt
 ```
 
 
