@@ -1,4 +1,4 @@
-# Master Thesis of LinGaoyuan
+# Master Thesis of LinGaoyuan: The Application of Transformer-based Models in Dynamic Outdoor Scenarios
 
 Hello, my name is Lin Gaoyuan, and I am currently pursuing a master’s degree in Automotive Engineering at TUM. This repository is relevant my master thesis.
 
