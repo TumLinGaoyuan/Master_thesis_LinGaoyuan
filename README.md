@@ -129,6 +129,6 @@ If you find my work useful for your own research, please consider citing:
     title={The Application of Transformer-based Models in Dynamic Outdoor Scenarios},
     author={Gaoyuan Lin},
     year={2024},
-    url={}
+    url={https://github.com/TumLinGaoyuan/Master_thesis_LinGaoyuan}
 }
 ```
