@@ -21,6 +21,8 @@ In my master thesis, I mainly completed the following tasks:
 
 Since I lack sufficient practical experience and code knowledge, In order to absorb the various functions and mechanisms implemented in excellent published codes,  I complete the code of my master thesis based on the basic structure and logic of GNT's original code.  In addition, the relevant code of ReTR rendering model has been integrated in my code. I would like to express my sincerest gratitude to the two research projects, GNT and ReTR, for inspiring and helping me with my master's thesis. If there is anything I need further clarification or annotation, please contact me.
 
+Due to the limitation of computational resource(RTX4090) and training time(10 hour), I can only generate finally reconstructed effect with 26.82 PSNR and 0.8488 SSIM. I believe the performance can be further enhance in the future.
+
 Here give a example of my result, left is ground truth image, right is predicted image:
 ![teaser](docs/assets/val_001_coarse.png)
 
