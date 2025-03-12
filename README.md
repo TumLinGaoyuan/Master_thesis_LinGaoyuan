@@ -1,6 +1,6 @@
 # Master Thesis of LinGaoyuan: The Application of Transformer-based Models in Dynamic Outdoor Scenarios
 
-Hello, my name is Lin Gaoyuan, and I am currently pursuing a master’s degree in Automotive Engineering at TUM. This repository is relevant my master thesis.
+Hello, my name is Lin Gaoyuan, and I am currently pursuing a master’s degree in Automotive Engineering at TUM. This repository contain the corresponding programm of my master thesis.
 
 [My Paper](docs/assets/Master_Arbeit.pdf)
 
@@ -10,7 +10,7 @@ This repository is built based on GNT's [offical repository](https://github.com/
 
 This project is my master thesis, which is mainly focus on the application of transformer network based NeRF model in outdoor scenario.  My master thesis was completed at [TUM info6](https://www.ce.cit.tum.de/air/home/).  The supervisor of my master thesis is [Prof. Dr.-Ing. habil. Alois C. Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/), while the advisor is Xiang Gao, M.Sc. Here I would like to thank them for their guidance and help in my master thesis.
 
-In recently, two researches(GNT and ReTR) have explore the possibility of transformer network based NeRF model used for the rendering/reconstruction of single object or indoor scenario. This inspired us to consider the feasibility of extending their approaches to outdoor scenes. In my master thesis, I used the rendering networks used in these two studies to explore the possibility of applying them to outdoor scenes. The NuScene dataset is used as my dataset and I operate some adjustments for original NuScene data to fit my specific requirement. 
+Recently, two studies, GNT and ReTR, have explored the potential of transformer-based NeRF models for rendering and reconstructing single objects or indoor scenes. Inspired by their approaches, I investigated the feasibility of extending these methods to outdoor environments in my master’s thesis. To achieve this, I leveraged the rendering networks from both studies and applied them to outdoor scenes using the NuScenes dataset. Additionally, I made specific modifications to the original NuScenes data to better align with my research requirements. 
 
 In my master thesis, I mainly completed the following tasks:
 1. Generate the masks of vehicles and pedestrians in the NuScene dataset.
@@ -19,7 +19,7 @@ In my master thesis, I mainly completed the following tasks:
 4. Integrate some optimization module such as anti-aliasing module to rendering model.
 
 
-Since I lack sufficient practical experience and code knowledge, In order to absorb the various functions and mechanisms implemented in excellent published codes,  I complete the code of my master thesis based on the basic structure and logic of GNT's original code.  In addition, the relevant code of ReTR rendering model has been integrated in my code. I would like to express my sincerest gratitude to the two research projects, GNT and ReTR, for inspiring and helping me with my master's thesis. If there is anything I need further clarification or annotation, please contact me.
+Due to my limited practical experience and coding knowledge, I structured the implementation of my master’s thesis based on the foundational framework and logic of GNT’s original code. Additionally, I integrated relevant components from the ReTR rendering model into my work to incorporate its key functionalities. I am deeply grateful to the authors of GNT and ReTR for their inspiring research, which has significantly contributed to my thesis. If any further clarification or additional annotations are needed, please feel free to contact me.
 
 Due to the limitation of computational resource(RTX4090) and training time(10 hour), I can only generate finally reconstructed effect with 26.82 PSNR and 0.8488 SSIM. I believe the performance can be further enhance in the future.
 
